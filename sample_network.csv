@@ -1,0 +1,11 @@
+type,src,dst,latency
+node,N0,,
+node,N1,,
+node,N2,,
+node,N3,,
+node,N4,,
+edge,N0,N1,10
+edge,N1,N2,20
+edge,N2,N3,15
+edge,N3,N4,5
+edge,N0,N4,50

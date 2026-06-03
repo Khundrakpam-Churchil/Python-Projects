@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<network><directed>False</directed><nodes><node>N0</node><node>N1</node><node>N2</node><node>N3</node><node>N4</node></nodes><edges><edge><src>N0</src><dst>N4</dst><latency>75</latency></edge><edge><src>N2</src><dst>N3</dst><latency>22</latency></edge><edge><src>N3</src><dst>N4</dst><latency>8</latency></edge></edges></network>

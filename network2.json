@@ -1,0 +1,177 @@
+{
+  "directed": false,
+  "nodes": [
+    "N0",
+    "N1",
+    "N2",
+    "N3",
+    "N4",
+    "N5",
+    "N6",
+    "N7",
+    "N8",
+    "N9",
+    "N10",
+    "N11",
+    "N12",
+    "N13",
+    "N14"
+  ],
+  "edges": [
+    {
+      "src": "N0",
+      "dst": "N8",
+      "latency": 51
+    },
+    {
+      "src": "N0",
+      "dst": "N11",
+      "latency": 90
+    },
+    {
+      "src": "N0",
+      "dst": "N12",
+      "latency": 18
+    },
+    {
+      "src": "N1",
+      "dst": "N5",
+      "latency": 46
+    },
+    {
+      "src": "N1",
+      "dst": "N7",
+      "latency": 84
+    },
+    {
+      "src": "N1",
+      "dst": "N9",
+      "latency": 9
+    },
+    {
+      "src": "N2",
+      "dst": "N3",
+      "latency": 23
+    },
+    {
+      "src": "N2",
+      "dst": "N6",
+      "latency": 66
+    },
+    {
+      "src": "N2",
+      "dst": "N8",
+      "latency": 32
+    },
+    {
+      "src": "N2",
+      "dst": "N9",
+      "latency": 2
+    },
+    {
+      "src": "N2",
+      "dst": "N12",
+      "latency": 82
+    },
+    {
+      "src": "N2",
+      "dst": "N13",
+      "latency": 18
+    },
+    {
+      "src": "N3",
+      "dst": "N5",
+      "latency": 77
+    },
+    {
+      "src": "N3",
+      "dst": "N7",
+      "latency": 84
+    },
+    {
+      "src": "N3",
+      "dst": "N10",
+      "latency": 91
+    },
+    {
+      "src": "N3",
+      "dst": "N12",
+      "latency": 51
+    },
+    {
+      "src": "N4",
+      "dst": "N5",
+      "latency": 84
+    },
+    {
+      "src": "N4",
+      "dst": "N9",
+      "latency": 51
+    },
+    {
+      "src": "N4",
+      "dst": "N11",
+      "latency": 6
+    },
+    {
+      "src": "N4",
+      "dst": "N12",
+      "latency": 94
+    },
+    {
+      "src": "N4",
+      "dst": "N13",
+      "latency": 92
+    },
+    {
+      "src": "N5",
+      "dst": "N14",
+      "latency": 88
+    },
+    {
+      "src": "N6",
+      "dst": "N8",
+      "latency": 47
+    },
+    {
+      "src": "N6",
+      "dst": "N13",
+      "latency": 9
+    },
+    {
+      "src": "N6",
+      "dst": "N14",
+      "latency": 46
+    },
+    {
+      "src": "N7",
+      "dst": "N13",
+      "latency": 4
+    },
+    {
+      "src": "N7",
+      "dst": "N14",
+      "latency": 90
+    },
+    {
+      "src": "N8",
+      "dst": "N13",
+      "latency": 74
+    },
+    {
+      "src": "N8",
+      "dst": "N14",
+      "latency": 71
+    },
+    {
+      "src": "N10",
+      "dst": "N11",
+      "latency": 15
+    },
+    {
+      "src": "N11",
+      "dst": "N12",
+      "latency": 54
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "directed": false,
+  "nodes": [
+    "N0",
+    "N1",
+    "N2",
+    "N3",
+    "N4"
+  ],
+  "edges": [
+    {
+      "src": "N0",
+      "dst": "N4",
+      "latency": 75
+    },
+    {
+      "src": "N2",
+      "dst": "N3",
+      "latency": 22
+    },
+    {
+      "src": "N3",
+      "dst": "N4",
+      "latency": 8
+    }
+  ]
+}
