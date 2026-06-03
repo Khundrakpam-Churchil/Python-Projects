@@ -52,5 +52,4 @@ python "d:\Python-Projects\Use Loop\Simple_Quiz.py"
 
 - Add persistence for player stats (best score, history).
 - Support multiple-choice questions and timed quizzes.
-- Add command-line flags to run a single mode directly (quiz or guessing game).
-
+- Add command-line flags to run a single mode directly (quiz or guessing game),
